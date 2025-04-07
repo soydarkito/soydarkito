@@ -1,4 +1,4 @@
 
 # Readme in progress
 
-Actual student on data science.
+Currently a student on data science.
